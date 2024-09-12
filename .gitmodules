@@ -1,0 +1,9 @@
+[submodule "Parallel-Min-Finder"]
+	path = Parallel-Min-Finder
+	url = https://github.com/mohasnik/Parallel-Min-Finder.git
+[submodule "Parallel-Stat-Finder"]
+	path = Parallel-Stat-Finder
+	url = https://github.com/mohasnik/Parallel-Stat-Finder.git
+[submodule "ParallelImageBlending"]
+	path = ParallelImageBlending
+	url = https://github.com/mohasnik/ParallelImageBlending.git
